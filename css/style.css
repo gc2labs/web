@@ -1,0 +1,118 @@
+body, h1 {
+  font-family: "Raleway", sans-serif, "Amatic SC", serif;
+  "Sacramento", cursive;
+}
+
+body, html {
+  height: 100%
+}
+
+.bgimg {
+  background-image: url('girlsCanCodeDesktop.png');
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+
+.bgimgskate {
+  background-image: url('skateboard.jpg');
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+
+.skateboarding {
+  font-family: "Raleway", sans-serif;
+  border: 10px double pink;
+}
+
+.skateboarding h1 {
+  font-family: "Amatic SC", serif;
+  text-align: center;
+}
+
+
+p {
+  font-family: "Josefin Slab", serif;
+}
+
+
+
+
+.animal h1 {
+  font-family: "Sacramento", cursive;
+}
+
+.animal h2 {
+  font-family: "Amatic SC";
+}
+
+
+.title {
+  color: black;
+  padding: 10px;
+}
+
+.title h1 {
+  font-family:'Dancing Script', cursive;
+}
+
+
+.main {
+  font-family: 'Lobster Two', cursive;
+  text-align:center;
+  align-items:center;
+  justify-content: center;
+  padding: 50px;
+}
+
+.border {
+  border: 5px solid red;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  border-radius: 12px;
+  font-family: "Raleway", sans-serif;
+  padding: 5px;
+}
+
+.animal {
+  font-family: 'Alfa Slab One', cursive;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+  border: 10px dotted blue;
+}
+
+.animal p {
+  font-family: "Raleway", sans-serif;
+}
+
+
+.flowers {
+  font-family:'Alfa Slab One', cursive;
+  text-align: left;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+  border: 10px double purple;
+}
+
+  .flowers p {
+    font-family:"Raleway", sans-serif;
+    color:pink;
+  }
+
+  .flowers h1 {
+    font-family:"Sacramento", cursive;
+    color: purple;
+  }
+
+  .flowers h2 {
+    font-family:"Amatic SC", serif;
+    color:violet;
+  }
